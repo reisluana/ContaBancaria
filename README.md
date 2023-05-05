@@ -1,5 +1,5 @@
 # ContaBancaria
-Desafio básico realizado durante o curso "Java: criando a sua primeira aplicação" da Alura. Esse curso marca o início dos meus estudos nessa linguagem. O projeto consiste em uma aplicação simples de Instituição Bancária, onde é possível checar saldo, realizar e receber transferências.
+Desafio realizado durante o curso "Java: criando a sua primeira aplicação" da Alura. Esse curso marca o início dos meus estudos nessa linguagem. O projeto consiste em uma aplicação simples de Instituição Bancária, onde é possível checar saldo, realizar e receber transferências.
 
 Tópicos trabalhados durante o projeto: 
 - Lógica de Programação
